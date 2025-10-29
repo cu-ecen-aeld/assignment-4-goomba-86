@@ -11,10 +11,9 @@
 # Your site should start with git@github.com:
 
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-goomba-86.git
-AESD_ASSIGNMENTS_OVERRIDE_SRCDIR = /home/goomba/repos/coursera/assignment-3-part-2-goomba-86
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
-AESD_ASSIGNMENTS_VERSION = d3c696a81653d4627ac7eb201dde16cc3c9d592b
+AESD_ASSIGNMENTS_VERSION = 0dbfea94e779e79cf086b8dfbb95d8af90ef83fb 
 
 
 define AESD_ASSIGNMENTS_BUILD_CMDS
